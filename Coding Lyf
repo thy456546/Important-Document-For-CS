@@ -1,0 +1,62 @@
+from: Shahad Ishraq
+///////////
+interviewbit.com আর leetcode.com যে এলগোরিদম বিষয়ক সমস্যা সমাধানের অনুশীলনের জন্য খুব বিখ্যাত আশা করি সবাই জানেন। না জানলে ঘুরে দেখেন ।
+এলগোরিদম বিষয়ক সমস্যা ছাড়াও প্রায়ই বিভিন্ন ইন্টার্ভিউতে সিস্টেম ডিজাইন নিয়ে প্রশ্ন হয়। এইগুলার জন্য কোথা থেকে পড়বেন?
+চারটি বেশ ভাল সোর্স শেয়ার করছি আপনাদের সাথে।
+
+১। https://www.hiredintech.com/courses/system-design 
+২। http://cs75.tv/2012/summer/#about 
+৩। https://www.interviewbit.com/courses/system-design/topics/storage-scalability/
+৪। https://drive.google.com/drive/folders/1Ui2Bm_eyiF3-IUO2kA2qXIKFqMLPDHaN?fbclid=IwAR1Udiyndjz9Wnv2abMhvFtmmy32JFavYqV0i_XRbRn6liRiohhD5FdDSN8
+
+/////////////
+pastebin
+Paste from Omar Rashid 14 May 2023 9:43 +0000
+Syntax highlighting: text
+
+View raw Copy to clipboard
+১২টা দারুণ কিছু সামার প্লান তাদের জন্য যারা সামার প্রোডাক্টিভ ভাবে কাটাতে চাও। (EDITION 1)
+এগুলোর যেকোনো একটা Pursue করলে পরবর্তী সামারে Internships or Admissions এর দৌড়ে অনেকটা এগিয়ে নিয়ে যাবে। 
+1. The Odin Project: ওয়েব ডেভেলপমেন্ট/সফটওয়্যার ডেভেলপমেন্ট এর জন্য সর্বাধিক রিকমেন্ডেড যদি কোনো রিসোর্স থাকে সেটা হচ্ছে The Odin Project. সম্পূর্ণ ফ্রি এই কারিকুলাম কেউ কম্পলিট করতে পারলে, তার দ্রুত টুলস/সফটওয়্যার MVP (Minimum Viable Product) বিল্ড করার ক্ষমতা অনেকাংশে বেড়ে যায়। পরবর্তী সামারে ইন্টার্নিশিপ পাওয়ার জন্য প্রজেক্ট পোর্টফলিও এবং স্কিলস দুইটাই তৈরি হয়ে যায়। দৈনিক ৫ঘন্টা/দিন সময় দিলে ৫-৬ মাসে কম্পলিট করা সম্ভব। এবং এই ডেডিকেশন টা সম্পূর্ণ worth it. 
+Link: https://www.theodinproject.com/ 
+2. MLH Fellowship: এই ফেলোশিপ টা অনেকটা ইন্টার্নশিপ এর মতো। বছরে প্রায় তিনবার (সামার, স্প্রিং, ফল) এর অ্যাপ্লিকেশন ওপেন হয়। এখানে ফেলোশিপ পেয়ে গেলে পরবর্তী তে টপ কোম্পানি গুলোতে ইন্টার্নিশিপ পাওয়া এবং ইন্টার্ভিউ তে ডাক পাওয়া অনেক ইজি হয়ে যায়, এতটাই কার্যকর এটা। GitHub ইঞ্জিনিয়ারস দের দ্বারা পরিচালিত হয় মূলত। এছাড়া বিভিন্ন সময়ে বিগটেক যেমন Meta, Google, etc. দের সাথে পার্টনারশীপ করে এরা ফেলোশিপ অ্যাপ্লিকেশন চালু করে। এখন এরা অ্যাপলিকেশন গ্রহণ করছে সামার এর জন্য। 
+বিস্তারিতঃ https://fellowship.mlh.io/ 
+3. Missing Semester at MIT: এই কোর্সটি অন্য পাচটা Computer Science কোর্স এর মতো না। যেখানে রেগুলার কোর্স গুলো Machine Learning, AI, Operating System এর মতো টাফ টপিক পড়ায়, এই কোর্সটার ফোকাস কম্পিউটার প্রোগ্রামিং এ ব্যবহৃত সব থেকে জনপ্রিয় টুলস আর সফটওয়্যার নিয়ে। সম্পূর্ণ ফ্রি এই কোর্সটি একজন CS স্টুডেন্ট কে অনেকটা প্রোডাক্টিভ হতে সাহায্য করবে। Example টপিকসঃ Data Wrangling, Editors(Vim), Metaprogramming, Potpourri, ইত্যাদি। আমার দেখা কম্পিউটার সাইন্সের অন্যতম সেরা একটা কোর্স। 
+Link to the course: https://missing.csail.mit.edu/ 
+4. Devpost.com: হ্যাকাথন কে না ভালোবাসে? যারা Hackathon এর সাথে পরিচিত না, হ্যাকাথন হলো একটা সময় বেধে দেওয়া টাইমলাইনের মধ্যে প্রজেক্টবেসড কম্পিটিশন যেখানে টিম তৈরি করে প্রব্লেম সলভ করতে হয়। যাদের ইন্টার্নশিপ এক্সপেরিয়েন্স নেই, হ্যাকাথন এক্সপেরিয়েন্স ইন্টার্নিশিপ পেতে অনেক হেল্প করে। এছাড়া হ্যাকাথন এ টিম প্রজেক্ট করে যতটুকু শেখা যায়, কয়েক মাসের CS কোর্স ও অনেক সময় ততটুকু শেখানে ব্যর্থ হয়। Leadership, Communication, Team work, Presentation, ইত্যাদির মতো ভ্যালুএবল স্কিল ডেভেলোপ করা যায়। Devpost হলো হ্যাকাথনের স্বর্গ। প্রায় প্রতি সপ্তাহেই বিশ্বের কোথাও না কোথাও হ্যাকাথন আয়োজিত হয় এই Devpost এ আর যে কেউই অংশ নিতে পারে।
+Link: https://devpost.com/
+Some more hackathons: https://mlh.io/seasons/2022/events 
+5. Start Learning a language: এই গ্লোবালাইজেশন এর সময়ে একটা নতুন ভাষা শেখার গুরুত্ব সীমাহীন। জব অপর্চুনিটি, ক্যারিয়ার এডভান্টেজ, কগনিটিভ ডেভেলপমেন্ট সহ প্রচুর বেনিফিটস আছে নতুন একটা ভাষা শেখার। আর এর জন্য সব থেকে জনপ্রিয় টুল হলো Duolingo। এই অ্যাপে যেকোনো ভাষা শেখা যায়, ফ্রি তে, যেকোনো সময়ে। বর্তমানের কনটেক্সট এ মান্দারিন (chinese), স্প্যানিশ, রাশিয়ান ভাষা শেখা খুবই চমৎকার স্ট্রাটেজি হবে। 
+Link: https://www.duolingo.com/ 
+6. Build your own X: এই X কে জনপ্রিয় কোনো সফটওয়্যার টুল বা গেম এর নাম দিয়ে রিপ্লেস করুন। কখনো কি মনে হয়েছে "ইশ আমি যদি নিজের একটা Search Engine/Operating System/Git/Programming Language বানাতে পারতাম?"। সারপ্রাইজিংলি, ইন্টারনেটের অবাক যগতে এর প্রত্যেকটার ই স্টেপ বাই স্টেপ টিউটোরিয়াল আছে। শুধু এক সার্চ এর অভাবে সেগুলো অচেনা থেকে যায়। এই GitHib Repository তে এরকম অসংখ্য প্রজেক্ট এর কোড/টিউটোরিয়াল পাওয়া যাবে। 
+Link to the GitHub Repo: https://github.com/danistefanovic/build-your-own-x 
+7. Startup School: আমার দেখে থাকা মাইন্ড ওলট পালট করে দেয়া যদি কোনো কোর্স থাকে তার মধ্যে এটি হবে একটি। কখনো কোনো স্টার্টাপ শুরু করার চিন্তা থাকলে বা জীবনে কোনো উদ্যোগ নেওয়ার ইচ্ছা থাকে, এই কোর্স এর মতো প্রভাবিত করতে পারে এরকম খুব কম ই পাওয়া যাবে। Stanford University তে শুরুতে পড়ানো এই কোর্সটিতে ১২ টা লেকচার এর প্রত্যেক লেকচারার ই কোনোনা কোনো বিলিয়ন ডলার কোম্পানি (ইউনিকর্ণ) এর সাথে জড়িত ছিল। প্রত্যেকটা লেকচার ই এমন মানুষ দের পরিচয় করাবে যাদের পরবর্তী লাইফে আইডল হিসেবে বিবেচনা করার মতো। কোর্সটি নেওয়ার সাথে সাথে কোর্সের রিডিং ম্যাটারিয়াল গুলো পড়তে ভুলোনা।
+Link: https://startupclass.samaltman.com/ 
+8. Learn and do things with Notion: বর্তমানে কেউ যদি আমাকে জিজ্ঞাসা করে একটা সফটওয়্যার ইউজ করা শিখবো আমি, কোনটা হবে সেটা, আমি চোখ বন্ধ করে রিকমেন্ড করবো Notion। Notion হলো একটি Note taking tool যেটা কম্পিউটার, ওয়েব, এবং মোবাইলেও ব্যাবহার করা যায়। Resources & Knowledge ম্যানেজমেন্ট এ Notion গেম চেঞ্জিং একটা টুল। একাডেমিক পড়াশোনা ম্যানেজমেন্ট, ওয়েবসাইট তৈরি, বিজনেস ম্যানেজমেন্ট, পারসোনাল Note taking, লেখালেখি, কিনা করা যায় না Notion দিয়ে। আমার পার্সোনাল ওয়েবসাইট (talhachy.com) এবং Rubriked এর ওয়েবসাইট (rubriked.com) দুইটাই সম্পূর্ণ Notion দিয়ে বানানো। কোনো কোড লেখা ছাড়াই (No code) হাজার রকম কাজ করা যায় এটা দিয়ে। নিচে কিছু এক্সাম্পল দেয়া হলোঃ
+https://youtu.be/ONG26-2mIHU
+https://youtu.be/OwEzA_NImOo
+https://youtu.be/aA7si7AmPkY 
+9. Get Educated, Read Books: সামার অসম্ভব রকম একটা সুন্দর সময় বই পড়ে কাটানোর জন্য। তবে র‍্যান্ডম ক্যাটাগরির বই না পড়ে, আমার রিকমেন্ডেশন থাকবে যেকোনো একটা টপিক ধরে সেটার উপর বেশ কয়েকটা রিসোর্স ঘাটাঘাটি করা হোক। এতে ডোমেইন নলেজ বাড়ে এবং ওই পার্টিকুলার ফিল্ডের নলেজ পরবর্তীয়ে অন্য ফিল্ড (e.g., computer science) এর সাথে মিলিয়ে উদ্ভাবনী কিছু তৈরী করা যায়। 
+আমার কিছু ফ্যাভরিট লিস্টঃ
+https://www.jordanbpeterson.com/great-books/
+https://blog.prepscholar.com/books-to-read-in-high-school
+বই বাদেও আর্টিকেল আর ভিডিও অন্যতম জনপ্রিয় লার্নিং মাধ্যম এবং এই ক্যাটাগরির অনেক রিসোর্স থাকায় rubriked.com recommend করবো যেখানে রেগুলার নতুন নতুন রিসোর্স পাবলিশড হয়।
+10. Start a Blog: লেখালেখি এমন একটা মাধ্যম যেটা জেনারেশন থেকে জেনারেশনে বিলিয়ে দেওয়া যায়। নিজের কোনো বিষয়ে এক্সপার্টিজ থাকলে সেটা নিয়ে রেগুলার একটু লেখালেখি করলে নিজেরও আইডিয়া ক্লিয়ার হয় আর শেখা সব কিছু সংরক্ষণ করাও হয়ে যায়। নিজের ব্লগ/ওয়েবসাইট শুরু করা কঠিন কোনো কাজ না। উপরে মেনশন করা Notion ছাড়াও, আরো কিছু পপুলার Blog লেখার tool/website হলোঃ 
+https://medium.com/
+https://substack.com/
+https://wordpress.com/ 
+11. Take Any of these Courses: অনলাইন কোর্সের ছড়াছড়ি সব যায়গায়, কিন্তু গোছানো, ভালো কন্টেন্ট আর সাবলীল ভাবে বোঝানো কোর্সের সংখ্যা কম। এছাড়া নতুন সব কোর্সের মান ও তত টা ভালো না। তাহলে উপায় কী ভালো কোর্স খুজে বের করার? একতা উপায় হলো যারা কোর্সগুলো করেছে তাদেরকে জিজ্ঞাসা করা। আর এরকম একটা প্লাটফর্ম, Hackernews এর ইউজার রা যেসব কোর্স কে ভোট দিয়েছে সর্বাধিক, তাদের লিস্ট পাওয়া যাবে এখানে। এসব কোর্স গুলোর মান খুব উন্নত মানের এবং প্রত্যেকটাই রিকমন্ডেডেড। 
+https://yahnd.com/academy/
+https://github.com/Tuccinator/hn-moocs 
+12. Get Yourself Resourceful: অনলাইনে রিসোর্সের ছড়াছড়ির অভাব নেই, কিন্তু গোছানে আর সারসংক্ষেপ এ উপস্থাপন করা রিসোর্স কম। এছাড়া নতুন ইউনিভার্সিটি স্টুডেন্ট দের জন্য গাইডেড রিসোর্স আর অপর্চুনিটির অনেক অভাব বাংলাদেশ এবং বাইরেও। সেই লক্ষ্যে School Success with Talha কাজ করে যাচ্ছে সব লেভেলের স্টুডেন্ট দের জন্য একটা 1 স্টপ ক্যারিয়ার এবং অপর্চুনিটি ডেস্টিনেশন হওয়ার জন্য। প্রতি নিয়ত নতুন ইন্টার্নিশিপ, সামার প্রোগ্রাম, ক্যারিয়ার রিসোর্সসহ অনেক আর্টিকেল আর রিসোর্স পোস্ট করে যাচ্ছে ওয়েবসাইট টি। Save the link and revisit the website daily. There’s enough content to make you more resourceful already. Check these two out:
+1. https://schoolsuccess.blog/resume-resources
+2. https://schoolsuccess.blog/get-smarter 
+SAVE this post for future reference and push the SHARE button to spread this further. TAG your friends who need it. If this reaches 100 shares, I'll write an EDITION 2. If any of you need personal recommendations about which one to pursue, comment below. 
+~ Follow Talha Chowdhury for more
+
+/////////////For Competitive Programming
+https://docs.google.com/document/d/1fQh13gouu1m46GLrEUIu0smmBGd_l4shJSOnVK1kloE/edit?fbclid=IwAR0N3HDkXhbwm6VN98g6jpBTsQub1zx4oAtCVLAtPaS2KGfN_SCKUODv9vA
+
+https://shahriar76.medium.com/competitive-programming-beginners-guideline-for-learning-topics-step-by-step-a4dcd478c15f
+
+https://docs.google.com/document/d/1oglYtdVGkmnqVVF0JN3YzwzlzFNcC4vO_JiYT9hCUSQ/mobilebasic?fbclid=IwAR0IDMHNwhXyaHbEU2kDk6HY2PWjeWEylR7Q5qiYStuQzFf_RSK5AtmJgrA
